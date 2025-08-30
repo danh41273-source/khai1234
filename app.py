@@ -33,7 +33,7 @@ import sys
 import textwrap
 import traceback
 
-from absl import command_name
+from absl import app
 from absl import flags
 from absl import logging
 
